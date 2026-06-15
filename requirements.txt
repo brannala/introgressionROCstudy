@@ -1,0 +1,5 @@
+msprime>=1.4.2
+tskit>=1.0,<1.1
+numpy
+matplotlib
+sstar>=1.1
